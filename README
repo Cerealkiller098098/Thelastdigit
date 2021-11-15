@@ -1,3 +1,9 @@
+This is a SPOJ problem,
+
+LASTDIG - The last digit
+#number-theory #ad-hoc-1
+
+
 Nestor was doing the work of his math class about three days but he is tired of make operations a lot and he should deliver his task tomorrow. His math’s teacher gives him two numbers a and b.
 The problem consist of finding the last digit of the potency of base a and index b. Help Nestor with his problem.
 You are given two integer numbers: the base a (0 <= a <= 20) and the index b (0 <= b <= 2,147,483,000), a and b both are not 0. You have to find the last digit of ab.
